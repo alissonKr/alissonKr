@@ -1,6 +1,6 @@
 ### Hello, there! 👋
 
-- 📚 Currently I am studying: `Linux`, `JavaScript`, `Python`, `Dart`
+- 📚 Currently I am studying: `Linux`, `JavaScript`, `Python` and `Dart`
 - 🛠️ **Using the following tools**: `Visual Studio Code` and `Android Studio`  
 - 💻 My main OSs are: [Windows 10 Pro](https://www.microsoft.com/pt-br/software-download/windows10ISO)
 - 🖧 My Linkedin profile: <a href="https://www.linkedin.com/in/alisson-kruger-b5611b160/"
