@@ -11,9 +11,9 @@
 <div class="flex-container">
     <a href="https://github.com/alissonKr">
         <img height="180em"
-            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alissonKr&&show_icons=true&count_private=true&theme=tokyonight" />
+            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alissonKr&show_icons=true&count_private=true&theme=midnight-purple" />
         <img height="180em"
-            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alissonKr&layout=compact&langs_count=7&theme=tokyonight" />
+            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alissonKr&layout=compact&langs_count=7&theme=midnight-purple" />
 </div>
 
 <div style="display: inline_block" class="flex-container"><br>
