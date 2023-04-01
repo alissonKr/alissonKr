@@ -17,13 +17,13 @@
 </div>
 
 <div style="display: inline_block" class="flex-container"><br>
-    <img align="center" alt="JG-WinServer" height="4%" width="4%"
+   	<img align="center" alt="JG-WinServer" height="4%" width="4%"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-    <img align="center" alt="JG-Linux" height="4%" width="4%"
+   	<img align="center" alt="JG-Linux" height="4%" width="4%"
         src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linux/linux-original.svg">
-    <img align="center" alt="JG-JavaScript" height="4%" width="4%"
+    	<img align="center" alt="JG-JavaScript" height="4%" width="4%"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="JG-Python" height="4%" width="4%"
+   	<img align="center" alt="JG-Python" height="4%" width="4%"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 	<img align="center" alt="JG-Dart" height="4%" width="4%"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
