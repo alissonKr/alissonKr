@@ -27,4 +27,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 	<img align="center" alt="JG-Dart" height="4%" width="4%"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+	<img align="center" alt="JG-Dart" height="4%" width="4%"
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+          
 </div>
